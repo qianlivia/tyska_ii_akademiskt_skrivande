@@ -1,0 +1,46 @@
+Hesitation markers
+%uh
+%um
+%eh
+%mm
+%hm
+%ah
+%huh
+%ha
+%er
+%oof
+%hee
+%ach
+%eee
+%ew
+
+Backchannels
+oh good
+oh okay
+oh
+oh
+wow
+oh really
+
+Frageord (?)
+what
+when
+how
+where
+who
+why
+which
+whose
+whom
+
+Entweder-Oder-Fragen
+or
+
+Ja-Nein Fragen
+the rest
+
+Laughter
+&=laughs
+
+Breath
+&=breath

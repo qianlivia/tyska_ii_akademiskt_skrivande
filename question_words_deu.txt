@@ -1,0 +1,1 @@
+"was", "wann", "wer", "wo", "warum", "wie", "wozu", "wen", "wem", "wohin", "woher", "was für", "welcher", "welche", "welches", "weswegen", "weshalb", "mit wem", "woran", "worüber", "worin", "womit", "wofür", "wogegen", "wessen", "worauf", "wovon", "worunter", "wovor", "wobei", "wodurch", "wie viel", "wie vieler", "wie vielen", "wie viele", "wieso", "inwiefern", "inwieweit"

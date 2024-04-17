@@ -1,0 +1,1 @@
+"what", "when", "how", "where", "who", "why", "which", "whose", "whom", "in what", "to what", "for what", "with what", "in which", "to which", "in what way", "to what extent", "in what respect", "to what degree"

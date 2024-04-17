@@ -1,0 +1,30 @@
+# This is an FTP publication.  At the top level of the distribution there
+# is an index.html file and transcr and doc subdirectories.  The contents
+# of the distribution are listed below.  The total filesize is 210 Kbytes
+# uncompressed.
+#
+doc/callinfo.doc
+doc/callinfo.tbl
+doc/file.tbl
+doc/german_transcript.doc
+index.html
+transcr/ge_4049.txt
+transcr/ge_4124.txt
+transcr/ge_4394.txt
+transcr/ge_4405.txt
+transcr/ge_4555.txt
+transcr/ge_4594.txt
+transcr/ge_4597.txt
+transcr/ge_4659.txt
+transcr/ge_4754.txt
+transcr/ge_4816.txt
+transcr/ge_4867.txt
+transcr/ge_4924.txt
+transcr/ge_4962.txt
+transcr/ge_4978.txt
+transcr/ge_5114.txt
+transcr/ge_5698.txt
+transcr/ge_6118.txt
+transcr/ge_6230.txt
+transcr/ge_6904.txt
+transcr/ge_6917.txt

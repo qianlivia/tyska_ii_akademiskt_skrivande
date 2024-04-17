@@ -1,0 +1,160 @@
+ge_4049 audit-done
+ge_4049 ntalkers=2 nfemale=1 nmale=1
+ge_4049 siA difficulty=2 bgnoise=1 chnoise=3 distortion=3 crosstalk=2
+ge_4049 siA ntalkers=1 nfemale=0 nmale=1
+ge_4049 siB difficulty=2 bgnoise=1 chnoise=3 distortion=3 crosstalk=2
+ge_4049 siB ntalkers=1 nfemale=1 nmale=0
+ge_4049 taA sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4049 taB sex=female age=elderly rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4124 audit-done
+ge_4124 ntalkers=2 nfemale=1 nmale=1
+ge_4124 siA difficulty=4 bgnoise=1 chnoise=3 distortion=3 crosstalk=2
+ge_4124 siA ntalkers=1 nfemale=0 nmale=1
+ge_4124 siB difficulty=2 bgnoise=1 chnoise=2 distortion=2 crosstalk=2
+ge_4124 siB ntalkers=1 nfemale=1 nmale=0
+ge_4124 taA sex=male age=adult rate=normal artic=mumbled acc_pron=none dial_wds=none accent=standard 
+ge_4124 taB sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
+ge_4394 audit-done
+ge_4394 ntalkers=2 nfemale=0 nmale=2
+ge_4394 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4394 siA ntalkers=1 nfemale=0 nmale=1
+ge_4394 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4394 siB ntalkers=1 nfemale=0 nmale=1
+ge_4394 taA sex=male age=none rate=none artic=none acc_pron=none dial_wds=none accent=standard 
+ge_4394 taB sex=male age=none rate=none artic=none acc_pron=none dial_wds=none accent=standard 
+ge_4405 audit-done
+ge_4405 ntalkers=2 nfemale=2 nmale=0
+ge_4405 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4405 siA ntalkers=1 nfemale=1 nmale=0
+ge_4405 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4405 siB ntalkers=1 nfemale=1 nmale=0
+ge_4405 taA sex=female age=none rate=none artic=none acc_pron=none dial_wds=none accent=standard 
+ge_4405 taB sex=female age=none rate=none artic=none acc_pron=none dial_wds=none accent=standard 
+ge_4555 audit-done
+ge_4555 ntalkers=2 nfemale=0 nmale=2
+ge_4555 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4555 siA ntalkers=1 nfemale=0 nmale=1
+ge_4555 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4555 siB ntalkers=1 nfemale=0 nmale=1
+ge_4555 taA sex=male age=none rate=none artic=none acc_pron=none dial_wds=none accent=standard 
+ge_4555 taB sex=male age=none rate=none artic=none acc_pron=none dial_wds=none accent=standard 
+ge_4594 audit-done
+ge_4594 ntalkers=2 nfemale=2 nmale=0
+ge_4594 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4594 siA ntalkers=1 nfemale=1 nmale=0
+ge_4594 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4594 siB ntalkers=1 nfemale=1 nmale=0
+ge_4594 taA sex=female age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4594 taB sex=female age=elderly rate=fast artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4597 audit-done
+ge_4597 ntalkers=2 nfemale=1 nmale=1
+ge_4597 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4597 siA ntalkers=1 nfemale=1 nmale=0
+ge_4597 siB difficulty=2 bgnoise=2 chnoise=2 distortion=1 crosstalk=1
+ge_4597 siB ntalkers=1 nfemale=0 nmale=1
+ge_4597 taA sex=female age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=swabish/badish 
+ge_4597 taB sex=male age=elderly rate=normal artic=clear acc_pron=1 dial_wds=1 accent=swabish/badish 
+ge_4659 audit-done
+ge_4659 ntalkers=2 nfemale=2 nmale=0
+ge_4659 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4659 siA ntalkers=1 nfemale=1 nmale=0
+ge_4659 siB difficulty=1 bgnoise=1 chnoise=1 distortion=2 crosstalk=1
+ge_4659 siB ntalkers=1 nfemale=1 nmale=0
+ge_4659 taA sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=1 accent=standard 
+ge_4659 taB sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=1 accent=standard 
+ge_4754 audit-done
+ge_4754 ntalkers=2 nfemale=1 nmale=1
+ge_4754 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4754 siA ntalkers=1 nfemale=0 nmale=1
+ge_4754 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4754 siB ntalkers=1 nfemale=1 nmale=0
+ge_4754 taA sex=male age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
+ge_4754 taB sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
+ge_4816 audit-done
+ge_4816 ntalkers=2 nfemale=2 nmale=0
+ge_4816 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4816 siA ntalkers=1 nfemale=1 nmale=0
+ge_4816 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=3
+ge_4816 siB ntalkers=1 nfemale=1 nmale=0
+ge_4816 taA sex=female age=adult rate=normal artic=clear acc_pron=2 dial_wds=2 accent=standard 
+ge_4816 taB sex=female age=elderly rate=normal artic=clear acc_pron=2 dial_wds=2 accent=standard 
+ge_4867 audit-done
+ge_4867 ntalkers=2 nfemale=1 nmale=1
+ge_4867 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4867 siA ntalkers=1 nfemale=0 nmale=1
+ge_4867 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4867 siB ntalkers=1 nfemale=1 nmale=0
+ge_4867 taA sex=male age=adult rate=normal artic=mumbled acc_pron=1 dial_wds=1 accent=standard 
+ge_4867 taB sex=female age=adult rate=fast artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4924 audit-done
+ge_4924 ntalkers=2 nfemale=2 nmale=0
+ge_4924 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4924 siA ntalkers=1 nfemale=1 nmale=0
+ge_4924 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4924 siB ntalkers=1 nfemale=1 nmale=0
+ge_4924 taA sex=female age=adult rate=normal artic=clear acc_pron=2 dial_wds=2 accent=standard 
+ge_4924 taB sex=female age=adult rate=normal artic=clear acc_pron=2 dial_wds=2 accent=standard 
+ge_4962 audit-done
+ge_4962 ntalkers=2 nfemale=0 nmale=2
+ge_4962 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4962 siA ntalkers=1 nfemale=0 nmale=1
+ge_4962 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_4962 siB ntalkers=1 nfemale=0 nmale=1
+ge_4962 taA sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4962 taB sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_4978 audit-done
+ge_4978 ntalkers=2 nfemale=2 nmale=0
+ge_4978 siA difficulty=1 bgnoise=2 chnoise=1 distortion=1 crosstalk=1
+ge_4978 siA ntalkers=1 nfemale=1 nmale=0
+ge_4978 siB difficulty=1 bgnoise=2 chnoise=1 distortion=1 crosstalk=1
+ge_4978 siB ntalkers=1 nfemale=1 nmale=0
+ge_4978 taA sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=2 accent=standard 
+ge_4978 taB sex=female age=elderly rate=normal artic=clear acc_pron=1 dial_wds=1 accent=unidentified 
+ge_5114 audit-done
+ge_5114 ntalkers=2 nfemale=2 nmale=0
+ge_5114 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_5114 siA ntalkers=1 nfemale=1 nmale=0
+ge_5114 siB difficulty=4 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_5114 siB ntalkers=1 nfemale=1 nmale=0
+ge_5114 taA sex=female age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_5114 taB sex=female age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_5698 audit-done
+ge_5698 ntalkers=2 nfemale=2 nmale=0
+ge_5698 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_5698 siA ntalkers=1 nfemale=1 nmale=0
+ge_5698 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_5698 siB ntalkers=1 nfemale=1 nmale=0
+ge_5698 taA sex=female age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_5698 taB sex=female age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_6118 audit-done
+ge_6118 ntalkers=2 nfemale=0 nmale=2
+ge_6118 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6118 siA ntalkers=1 nfemale=0 nmale=1
+ge_6118 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6118 siB ntalkers=1 nfemale=0 nmale=1
+ge_6118 taA sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_6118 taB sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_6230 audit-done
+ge_6230 ntalkers=2 nfemale=0 nmale=2
+ge_6230 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6230 siA ntalkers=1 nfemale=0 nmale=1
+ge_6230 siB difficulty=1 bgnoise=1 chnoise=5 distortion=1 crosstalk=1
+ge_6230 siB ntalkers=1 nfemale=0 nmale=1
+ge_6230 taA sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_6230 taB sex=male age=adult rate=normal artic=clear acc_pron=1 dial_wds=1 accent=standard 
+ge_6904 audit-done
+ge_6904 ntalkers=2 nfemale=2 nmale=0
+ge_6904 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6904 siA ntalkers=1 nfemale=1 nmale=0
+ge_6904 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6904 siB ntalkers=1 nfemale=1 nmale=0
+ge_6904 taA sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
+ge_6904 taB sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
+ge_6917 audit-done
+ge_6917 ntalkers=2 nfemale=1 nmale=1
+ge_6917 siA difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6917 siA ntalkers=1 nfemale=1 nmale=0
+ge_6917 siB difficulty=1 bgnoise=1 chnoise=1 distortion=1 crosstalk=1
+ge_6917 siB ntalkers=1 nfemale=0 nmale=1
+ge_6917 taA sex=female age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
+ge_6917 taB sex=male age=adult rate=normal artic=clear acc_pron=none dial_wds=none accent=standard 
